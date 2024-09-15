@@ -136,7 +136,7 @@
     "cpy": "7.0.0",
     "cpy-cli": "2.0.0",
     "cypress": "3.4.1",
-    "express": "4.17.1",
+    "express": "4.20.0",
     "gh-pages": "1.1.0",
     "gitignore-to-glob": "0.3.0",
     "google-code-prettify": "1.0.5",
